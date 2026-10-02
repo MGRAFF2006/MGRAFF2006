@@ -2,25 +2,29 @@
   <img src="assets/header.svg" alt="Mathis — Developer tools. Everyday software." width="100%">
 </p>
 
-I'm **Mathis**, also known as `humunkulud`. I build developer tools, web apps, and the Linux setup they run on.
+I'm **Mathis**, also known as `humunkulud`. I build tools for developers, apps for everyday life, and the Linux setup they run on.
 
-I like simple systems that stay understandable: solve a real problem, keep the moving parts few, and make the result useful.
+I like systems I can still understand six months later: a real problem, a few moving parts, and something useful at the end.
 
-### What I'm building
+### Currently building → [Sorrel](https://github.com/MGRAFF2006/sorrel)
 
-**[Sorrel](https://github.com/MGRAFF2006/sorrel)**<br>
-Agent-native version control for humans and parallel AI agents. A Rust core, a CLI, and a collaboration layer, with a bidirectional Git bridge. Currently in alpha.
+**Version control designed for humans and parallel AI agents.** A Rust engine and CLI, a collaboration Hub, and a bidirectional Git bridge. Still in alpha; the [status page](https://github.com/MGRAFF2006/sorrel/blob/main/docs/STATUS.md) separates what works from what's planned.
 
-### More of my work
+### Things I've made
 
-| Project | What it does |
-| :--- | :--- |
-| [Kniffeldigi](https://github.com/MGRAFF2006/Kniffeldigi) | A shared Kniffel / Yatzy scorecard. Roll real dice, enter scores on your phone, and follow the game together. |
-| [Arch config](https://github.com/MGRAFF2006/config) | My reproducible Linux setup: dotfiles, package lists, and an agent kit shared across machines. |
+| Project | The idea | Built with |
+| :--- | :--- | :--- |
+| [Museum Rodenberg](https://github.com/MGRAFF2006/museum-rodenberg) | Bring local history online: exhibitions, artifacts, QR lookup, and seven languages. | React · TypeScript · Convex |
+| [Würfelblock / Kniffeldigi](https://github.com/MGRAFF2006/Kniffeldigi) | Roll real dice. Keep a shared Kniffel or Yatzy scorecard on your phones. | JavaScript · Cloudflare Workers · D1 |
+| [Rechnungsgenerator](https://github.com/MGRAFF2006/rechnungsgenerator) | Turn invoice details into an A4 PDF, directly in the browser. | JavaScript · jsPDF |
+| [Arch config](https://github.com/MGRAFF2006/config) | One versioned home for my shell, editor, package lists, and machine setup. | Arch Linux · Neovim · Zsh |
+| [4=10 solver](https://github.com/MGRAFF2006/4is10-solver) | Four digits, a handful of operators, one target: ten. | JavaScript · math.js |
 
-### Tools I reach for
+### My corner of the stack
 
 **Rust · TypeScript · JavaScript**<br>
-Vue / Solid · Docker · Arch Linux
+React / Solid / Vue · Docker · Arch Linux · Neovim
 
-If something here is useful to you, open an issue or a discussion in the relevant repo. I'd like to hear what you're building with it.
+Outside developer tools, I keep coming back to judo, maths, and software that makes small everyday jobs easier.
+
+Found something useful here? Issues and feedback belong in the relevant project.
